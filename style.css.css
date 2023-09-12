@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background: url(team.jpg);
+    background-position: center;
+    background-size: auto;
+    border-radius: 50px;
+    margin: 30px auto;
+    text-align: center;
+    margin-bottom: 50px;
+
+
+}
+input{
+    height: 25px;
+    font-size: large;
+    
+    background-color: rgb(251, 251, 251);
+    border: 2px solid blue;
+    
+}
+#form{
+background-color:yellow;
+margin-left: 340px;
+margin-top: 135px;
+
+width: 350px;
+height: 190%;
+border: 3px solid blue;
+
+}
+.gaar{
+    width: 75px;
+    height:35px ;
+    margin-left: 474px;
+    display: flex;
+    font-size: 20px;
+    display: flex;
+}
+.gaat{ width: 75px;
+    height:35px ;
+    margin-left: 474px;
+    display: flex;
+    font-size: 20px;
+    
+
+}
